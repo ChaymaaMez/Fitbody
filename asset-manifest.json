@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github.io/Fitbody/static/css/main.e74c49a2.css",
+    "main.js": "/github.io/Fitbody/static/js/main.34a58f4e.js",
+    "static/js/787.375f2d88.chunk.js": "/github.io/Fitbody/static/js/787.375f2d88.chunk.js",
+    "static/media/remixicon.svg?t=1690730386070": "/github.io/Fitbody/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/github.io/Fitbody/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/github.io/Fitbody/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/trainer.png": "/github.io/Fitbody/static/media/trainer.d5ac997315b633881155.png",
+    "static/media/gym-02.png": "/github.io/Fitbody/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/remixicon.woff?t=1690730386070": "/github.io/Fitbody/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/github.io/Fitbody/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/avatar02.png": "/github.io/Fitbody/static/media/avatar02.43d3323871cb17add5e2.png",
+    "static/media/avatar01.png": "/github.io/Fitbody/static/media/avatar01.712b9be90c75dec89232.png",
+    "static/media/yoga-pose.png": "/github.io/Fitbody/static/media/yoga-pose.1009817918cc6df26064.png",
+    "static/media/extended.png": "/github.io/Fitbody/static/media/extended.65fee2ef368e447527a7.png",
+    "static/media/lunges.png": "/github.io/Fitbody/static/media/lunges.52e48615ce527a095bcf.png",
+    "index.html": "/github.io/Fitbody/index.html",
+    "main.e74c49a2.css.map": "/github.io/Fitbody/static/css/main.e74c49a2.css.map",
+    "main.34a58f4e.js.map": "/github.io/Fitbody/static/js/main.34a58f4e.js.map",
+    "787.375f2d88.chunk.js.map": "/github.io/Fitbody/static/js/787.375f2d88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e74c49a2.css",
+    "static/js/main.34a58f4e.js"
+  ]
+}
